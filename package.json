@@ -1,0 +1,16 @@
+{
+  "name": "apurnajs",
+  "version": "2.0.0",
+  "description": "Frontend JS",
+  "keywords": [],
+  "author": "APSF LLC",
+  "contributors": [
+    "Travis Schanafelt <travschan@apsf.ch>"
+  ],
+  "main": "index.js",
+  "homepage": "https://apurna.ch/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
