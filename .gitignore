@@ -1,0 +1,14 @@
+
+# Cache
+.sass-cache
+
+# Dependencies
+node_modules/
+
+# Log Files
+*.log
+
+# Development
+/.vscode
+/console.*
+.noseids
