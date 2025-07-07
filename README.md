@@ -1,2 +1,0 @@
-# apurna-js
-Apurna JS
